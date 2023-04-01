@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VGNBe1T8Lbd7DvDbeJHx2OpnHlBEHCFmiT0IY4JF93xJ5orFUaYjDEJSexP/Xll8Y2nfoxzumjC80wjiCfaOfg==",
+  "dgSpecHash": "/DFWQIywp8gTVj3+E57Tr4QhrksnL3ZNCT7VCqf9o36t2ruJSzBTRif4+gMya2wsyTjhdzkkO305WgbUCJUraA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\serap\\source\\repos\\SignalR_Electric\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\serap\\OneDrive\\Belgeler\\GitHub\\SignalR_Graphic\\SignalR_Electric\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\serap\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\serap\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

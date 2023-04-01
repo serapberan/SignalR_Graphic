@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y8oQO4rh+BBNoYvgTTNvSfBscp+zIjkQBmhOFXFWAvDdh450iEcnN8hMe2MjTAsHJasefduJFHyPwe6RiQjHwA==",
+  "dgSpecHash": "BFuMFW+315rHDemLACT/sifQ066hGHGT2qWZWRIAIHHroC+4MvMwNqs9AA2o7t/NH30gGsI7qO28rEVPV4exww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\serap\\source\\repos\\SignalR_Electric\\SignalR_Electric\\SignalR_Electric.csproj",
+  "projectFilePath": "C:\\Users\\serap\\OneDrive\\Belgeler\\GitHub\\SignalR_Graphic\\SignalR_Electric\\SignalR_Electric\\SignalR_Electric.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\serap\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\serap\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

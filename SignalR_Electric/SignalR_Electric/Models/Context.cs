@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 
 namespace SignalR_Electric.Models
-{
+{//bağlantı
     public class Context : DbContext
     {
         public Context(DbContextOptions<Context> options) : base(options)
